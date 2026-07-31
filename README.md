@@ -11,8 +11,8 @@ Soy **Mahomer**, estudiante de Ingeniería de Datos e IA en la Universidad Santo
 - 👯 Buscando colaborar en proyectos de **automatización, chatbots con IA y sistemas RAG**
 - 🤔 Buscando ayuda con **escalabilidad de workflows n8n y arquitecturas multi-agente**
 - 💬 Pregúntame sobre **n8n, agentes de IA, Telegram bots, RAG y automatización de procesos**
-- 📫 Cómo contactarme: *(agrega tu correo o LinkedIn aquí)*
-- ⚡ Dato curioso: construí "Esperanza", un chatbot de IA para una fundación, y lo presenté en vivo ante ~800 personas
+- 📫 Cómo contactarme: johanmahomer@gmail.com
+- ⚡ Dato curioso: construí "Esperanza", un chatbot de IA para una fundación, y lo presenté en vivo ante ~200 personas
 
 ### 🚀 Proyectos destacados
 
