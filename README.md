@@ -17,7 +17,6 @@ Soy **Mahomer**, estudiante de Ingeniería de Datos e IA en la Universidad Santo
 ### 🚀 Proyectos destacados
 
 - **Esperanza** — Chatbot con IA para Fundación Colombia Comparte (n8n, LangChain AI Agent, PGVector/Postgres RAG, )
-- **ZapatoStore** — Tienda de zapatos vía Telegram con arquitectura multi-agente y RAG
 - **RepFlow** — Asistente de entrenamiento personalizado (n8n, Telegram, AI Agent, Google Sheets)
 - **RPG USTA** — Videojuego ambientado en el campus de la Universidad Santo Tomás (Phaser 3 + TypeScript)
 
